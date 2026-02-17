@@ -5,5 +5,3 @@ nome_separado = nome.split()
 # Se "nome" estiver na variável "nome_separado, executa"
 for nome in nome_separado:
     print(nome)
-
-
